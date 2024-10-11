@@ -1,0 +1,5 @@
+input[type="number"] {
+  background-color: lightblue;
+  border: 1px solid #ccc;
+  padding: 5px;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fruit Cost Calculator</title>
+  <link rel="stylesheet" href="stile.css">
+</head>
+<body>
+  <h1>Fruit Cost Calculator</h1>
+  <label for="appleQuantity">Apples (69 cents each):</label>
+  <input type="number" id="appleQuantity" min="0" max="99">
+  <br>
+  <label for="orangeQuantity">Oranges (59 cents each):</label>
+  <input type="number" id="orangeQuantity" min="0" max="99">
+  <br>
+  <label for="bananaQuantity">Bananas (49 cents each):</label>
+  <input type="number" id="bananaQuantity" min="0" max="99">
+  <br>
+  <button onclick="calculateTotal()">Submit</button>
+  <p id="totalCost"></p>
+  <script src="scrypt.js"></script>
+</body>
+</html>
