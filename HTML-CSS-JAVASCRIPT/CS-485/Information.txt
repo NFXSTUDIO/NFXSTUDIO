@@ -1,0 +1,3 @@
+This is the folder for CS-485 project (game programming) :
+
+If you want to use it please read the read me in order to know how to install it 
