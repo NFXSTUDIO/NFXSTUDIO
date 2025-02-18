@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="car_catalog.css"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="car_catalog.xsd">
+    <car>
+        <make>Ford</make>
+        <model>Mustang</model>
+        <year>2021</year>
+        <color>Red</color>
+        <engine>
+            <number_of_cylinders>8</number_of_cylinders>
+            <fuel_system>fuel_injected</fuel_system>
+        </engine>
+        <number_of_doors>2</number_of_doors>
+        <transmission_type>manual</transmission_type>
+        <accessories radio="yes" air_conditioning="yes" power_windows="yes" power_steering="yes" power_brakes="yes" />
+    </car>
+    <car>
+        <make>Toyota</make>
+        <model>Corolla</model>
+        <year>2022</year>
+        <color>Blue</color>
+        <engine>
+            <number_of_cylinders>4</number_of_cylinders>
+            <fuel_system>fuel_injected</fuel_system>
+        </engine>
+        <number_of_doors>4</number_of_doors>
+        <transmission_type>automatic</transmission_type>
+        <accessories radio="yes" air_conditioning="yes" power_windows="yes" power_steering="yes" power_brakes="yes" />
+    </car>
+    <car>
+        <make>Chevrolet</make>
+        <model>Camaro</model>
+        <year>2020</year>
+        <color>Black</color>
+        <engine>
+            <number_of_cylinders>6</number_of_cylinders>
+            <fuel_system>carbureted</fuel_system>
+        </engine>
+        <number_of_doors>2</number_of_doors>
+        <transmission_type>manual</transmission_type>
+        <accessories radio="no" air_conditioning="no" power_windows="no" power_steering="no" power_brakes="no" />
+    </car>
+</catalog>
