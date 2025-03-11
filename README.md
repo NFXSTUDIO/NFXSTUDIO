@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NFXSTUDIO
+- 👋 Hi, I’m Arthur Touati
 - I am an aerospace and aeronautics students at IPSA in France and I am the president of an association I build, Apollo's Science Innovator
-- I know python, VBA, C, C++, java, assembly, javascrypt, css and HTML
+- I know python, VBA, C, C++, java, assembly, javascrypt, css, PHP and HTML
 - I would like to study AI, machine learning and robotics in the futur with my schools
 - You can reach me by email at arthur.touati@ipsa.fr
 

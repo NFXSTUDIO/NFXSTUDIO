@@ -1,0 +1,26 @@
+catalog {
+    display: block;
+    font-family: Arial, sans-serif;
+}
+
+car {
+    display: block;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+make, model, year, color, engine, number_of_doors, transmission_type, accessories {
+    display: block;
+    margin: 5px 0;
+}
+
+engine, accessories {
+    padding-left: 10px;
+}
+
+accessories {
+    display: block;
+    font-style: italic;
+}
