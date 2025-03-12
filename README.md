@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Touati
 - I am an aerospace and aeronautics students, specialized in mecatronics, cybersecurity and AI at IPSA in France and I am the president of an association I build, Apollo's Science Innovator
-- I know python, VBA, C, C++, java, assembly, javascrypt, css, PHP, HTML, XML and ROS2
+- I know python, VBA, C, C++, java, assembly, javascrypt, css, PHP, HTML, XML, matlab and ROS2
 - You can reach me by email at arthur.touati@ipsa.fr
 
 <!---
