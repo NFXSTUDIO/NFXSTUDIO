@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IPSA Ebot Control Form</title>
+	<style>
+		* {font-family: arial, sans-serif;}
+		.RobotControlForm { 
+			display : inline-block;
+			border-radius: 25px; 
+			border: 2px solid #104480;/*ipsa color dec 16 68 128 */ 
+			padding : 1%; }
+		#header {/*border: 2px solid #73AD21;*/}
+		#header img {
+			width : 20% ;	
+			height: 20%;	
+			/*border: 2px solid #73AD21;*/}
+</style>
+</head>
+<body>
+	<div id="header"><img src="/img/Step7.jpg"/></div>
+
+		<div class="RobotControlForm">
+			<h3>MODE</h3>
+		<form action="select_mode" method="post">
+			 <select name="mode">
+			  <option value="explore">Explore</option>
+			  <option value="controled">Controled</option>
+			  <option value="support">Support</option>
+			  <option value="teach">Teaching</option>
+			</select>
+		</form>
+	</div>
+
+	<div class="RobotControlForm" id="move_control">
+			<h3>MOVE</h3>
+		<form action="control.html" method="post">
+			<button type="submit" value="forward"   name="move">Forward   </button>
+			<button type="submit" value="backward"  name="move">Backward  </button>
+			<button type="submit" value="leftturn"  name="move">Trun Left </button>
+			<button type="submit" value="rightturn" name="move">Turn Right</button>
+		</form>
+			</div>
+</body>
+</html>
